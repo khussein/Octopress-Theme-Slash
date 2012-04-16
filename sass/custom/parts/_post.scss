@@ -1,0 +1,18 @@
+.post{
+    h1.title, .entry{
+        margin-left: 0px;
+    }
+    .meta{
+        position: inherit;
+        top: inherit;
+        width: inherit;
+        margin-bottom: 35px;
+        padding-bottom: 1px;
+        .comments{
+            float: right;
+        }
+        .date{
+            float: left;
+        }
+    }
+}
